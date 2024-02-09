@@ -33,6 +33,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 group-title="央视",8K测试
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000664/index.m3u8
 #EXTINF:-1 group-title="山东",东营公共
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000227/index.m3u8
 #EXTINF:-1 group-title="山东",东营新闻综合
