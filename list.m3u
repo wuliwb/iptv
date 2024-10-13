@@ -1,91 +1,91 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视",CCTV1高清
+#EXTINF:-1 group-title="央视",CCTV1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2高清
+#EXTINF:-1 group-title="央视",CCTV2
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV3高清
+#EXTINF:-1 group-title="央视",CCTV3
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV4高清
+#EXTINF:-1 group-title="央视",CCTV4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5高清
+#EXTINF:-1 group-title="央视",CCTV5
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5+高清
+#EXTINF:-1 group-title="央视",CCTV5+
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV6高清
+#EXTINF:-1 group-title="央视",CCTV6
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV7高清
+#EXTINF:-1 group-title="央视",CCTV7
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV8高清
+#EXTINF:-1 group-title="央视",CCTV8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV9高清
+#EXTINF:-1 group-title="央视",CCTV9
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10高清
+#EXTINF:-1 group-title="央视",CCTV10
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV11高清
+#EXTINF:-1 group-title="央视",CCTV11
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV12高清
+#EXTINF:-1 group-title="央视",CCTV12
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV13高清
+#EXTINF:-1 group-title="央视",CCTV13
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV14高清
+#EXTINF:-1 group-title="央视",CCTV14
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV15高清
+#EXTINF:-1 group-title="央视",CCTV15
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV16高清
+#EXTINF:-1 group-title="央视",CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV17高清
+#EXTINF:-1 group-title="央视",CCTV17
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 group-title="山东",东营公共
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000227/index.m3u8
 #EXTINF:-1 group-title="山东",东营新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8
-#EXTINF:-1 group-title="山东",山东卫视高清
+#EXTINF:-1 group-title="山东",山东卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
-#EXTINF:-1 group-title="山东",山东公共高清
+#EXTINF:-1 group-title="山东",山东公共
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-#EXTINF:-1 group-title="山东",齐鲁频道高清
+#EXTINF:-1 group-title="山东",齐鲁频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
-#EXTINF:-1 group-title="山东",山东生活高清
+#EXTINF:-1 group-title="山东",山东生活
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1 group-title="山东",山东综艺高清
+#EXTINF:-1 group-title="山东",山东综艺
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-#EXTINF:-1 group-title="山东",山东影视高清
+#EXTINF:-1 group-title="山东",山东影视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 group-title="山东",山东体育高清
+#EXTINF:-1 group-title="山东",山东体育
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
-#EXTINF:-1 group-title="山东",山东教育高清
+#EXTINF:-1 group-title="山东",山东教育
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
-#EXTINF:-1 group-title="山东",山东农科高清
+#EXTINF:-1 group-title="山东",山东农科
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 group-title="地方卫视",北京卫视高清
+#EXTINF:-1 group-title="地方卫视",北京卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
-#EXTINF:-1 group-title="地方卫视",天津卫视高清
+#EXTINF:-1 group-title="地方卫视",天津卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
-#EXTINF:-1 group-title="地方卫视",河北卫视高清
+#EXTINF:-1 group-title="地方卫视",河北卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
-#EXTINF:-1 group-title="地方卫视",江苏卫视高清
+#EXTINF:-1 group-title="地方卫视",江苏卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
-#EXTINF:-1 group-title="地方卫视",安徽卫视高清
+#EXTINF:-1 group-title="地方卫视",安徽卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
-#EXTINF:-1 group-title="地方卫视",东方卫视高清
+#EXTINF:-1 group-title="地方卫视",东方卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
-#EXTINF:-1 group-title="地方卫视",浙江卫视高清
+#EXTINF:-1 group-title="地方卫视",浙江卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
-#EXTINF:-1 group-title="地方卫视",广东卫视高清
+#EXTINF:-1 group-title="地方卫视",广东卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
-#EXTINF:-1 group-title="地方卫视",深圳卫视高清
+#EXTINF:-1 group-title="地方卫视",深圳卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
-#EXTINF:-1 group-title="地方卫视",东南卫视高清
+#EXTINF:-1 group-title="地方卫视",东南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
-#EXTINF:-1 group-title="地方卫视",湖北卫视高清
+#EXTINF:-1 group-title="地方卫视",湖北卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
-#EXTINF:-1 group-title="地方卫视",湖南卫视高清
+#EXTINF:-1 group-title="地方卫视",湖南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
-#EXTINF:-1 group-title="地方卫视",辽宁卫视高清
+#EXTINF:-1 group-title="地方卫视",辽宁卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
-#EXTINF:-1 group-title="地方卫视",黑龙江卫视高清
+#EXTINF:-1 group-title="地方卫视",黑龙江卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
-#EXTINF:-1 group-title="地方卫视",贵州卫视高清
+#EXTINF:-1 group-title="地方卫视",贵州卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
 #EXTINF:-1 group-title="地方卫视",上海纪实人文
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
